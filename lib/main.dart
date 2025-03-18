@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
-//https://chatgpt.com/share/67cd9e9a-bebc-800c-aa03-ce9f2243a681
-//https://chatgpt.com/share/67cda1ab-bf84-800c-a27f-2e3fa6bf83d0
+
 void main()
 {
   runApp(MyApp());
