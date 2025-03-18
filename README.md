@@ -1,6 +1,6 @@
 # Flutter App Embedded in AGL (Automotive Grade Linux) via Yocto
 
-This guide provides a comprehensive walkthrough for creating a **Flutter App**, embedding it into an **AGL Yocto Image**, setting up a **Yocto layer**, hosting it on **GitHub**, and debugging potential errors. By following this document, you will gain insights into how Flutter can be integrated into an automotive-grade environment, leveraging Yocto’s customization capabilities.
+This guide provides a comprehensive walkthrough for creating a **Flutter App**, embedding it into an **AGL Yocto Image**, setting up a **Yocto layer**, hosting it on **GitHub**, and debugging potential errors. This document gives insights into how Flutter can be integrated into an automotive-grade environment, leveraging Yocto’s customization capabilities.
 
 ---
 
