@@ -160,6 +160,9 @@ Engine Status: Running
 
 ---
 
+![Screenshot 2025-03-18 103845](https://github.com/user-attachments/assets/612e2222-e569-48ab-8a5b-ad38bc8e4e8f)
+
+
 ## **6️⃣ Debugging Common Errors**
 
 While working with Yocto, you may encounter errors. Below are some common issues and solutions:
