@@ -39,7 +39,7 @@ class _MyHomePageState extends State<MyHomePage>
       return Center(child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Text('My Name Is', style: TextStyle(fontSize:24 )),
+          Text('My Name Is: Aditya Bhattacharya', style: TextStyle(fontSize:24 )),
           SizedBox(height: 20,),
           ElevatedButton(onPressed: (){
             setState((){
